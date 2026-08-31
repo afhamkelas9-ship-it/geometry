@@ -11,6 +11,6 @@ let keliling = p + l + p + l
 console.log(`
 luas   : ${luas} cm
 keliling : ${keliling}cm`)
-console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~')
-console.log('--------INI HASIL NYA------')
-console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~')
+console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~')
+console.log('--------INI HASIL NYA-----')
+console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~')

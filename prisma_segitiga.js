@@ -11,6 +11,6 @@ let volume = (1/2 * alas * tinggi ) * tinggi_prisma
 
 console.log (`volume :  ${volume}`)
 
-console.log ('==================')
-console.log ('~~~ini hasilnya~~~')
-console.log ('==================')
+console.log ('=================')
+console.log ('~~~ini hasilnya~~')
+console.log ('=================')

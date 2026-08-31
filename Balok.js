@@ -12,6 +12,6 @@ let panjang_rusuk = 2 * (p * l + p * t + l * t)
 console.log(`luas  : ${luas}
 panjang_rusuk  : ${panjang_rusuk}`)
 
-    console.log('===============')
-    console.log('-ini hasil nya-')
-    console.log('===============')
+    console.log('=================')
+    console.log('--ini hasil nya--')
+    console.log('=================')

@@ -10,6 +10,6 @@ let volume = 1/3 * pi * jarijari**2 * tinggi
 
 console.log(`volume  : ${volume}`)
 
-console.log('========================')
-console.log('------ini hasil nya-----')
-console.log('========================')
+console.log('=======================')
+console.log('------ini hasil nya----')
+console.log('=======================')

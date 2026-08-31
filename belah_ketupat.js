@@ -11,6 +11,6 @@ let keliling = 4 * sisi
 
 console.log(`luas  : ${luas}
 keliling  : ${keliling}`)
-    console.log('=================')
-    console.log('--ini hasil nya--')
-    console.log('=================')
+    console.log('===================')
+    console.log('---ini hasil nya---')
+    console.log('===================')

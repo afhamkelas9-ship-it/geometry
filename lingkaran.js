@@ -13,6 +13,6 @@ let keliling_2 = phi * d
 console.log(`luas  : ${luas}
     keliling_1  : ${keliling_1}
     keliling_2  :${keliling_2}`)
-    console.log('===============')
-    console.log('-ini hasil nya-')
-    console.log('===============')
+    console.log('================')
+    console.log('-ini hasil nya--')
+    console.log('================')

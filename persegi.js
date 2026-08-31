@@ -8,4 +8,4 @@ let keliling = 4 * sisi
 console.log(`
 luas    : ${luas} cm
 keliling : ${keliling} cm`)
-console.log('====done====')
+console.log('===done===')

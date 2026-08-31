@@ -19,6 +19,6 @@ console.log(`luas_alas_segitiga :  ${luas_alas_segitiga}
 volume_limas :  ${volume_limas}
 luas_permukaan_limas :  ${luas_permukaan_limas}`)
 
-console.log ('==================')
-console.log ('~~~ini hasilnya~~~')
-console.log ('==================')
+console.log ('=================')
+console.log ('~~~ini hasilnya~~')
+console.log ('=================')

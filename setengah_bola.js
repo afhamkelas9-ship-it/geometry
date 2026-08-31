@@ -14,6 +14,6 @@ console.log(`volume :  ${volume}
 luas_selimut :  ${luas_selimut}
 luas_permukaan :  ${luas_permukaan}`)
 
-console.log ('==============')
-console.log ('~ini hasilnya~')
-console.log ('==============')
+console.log ('===============')
+console.log ('~ini hasilnya~~')
+console.log ('===============')

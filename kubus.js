@@ -11,6 +11,6 @@ let keliling = 12 * sisi
 console.log(`volume :  ${volume}
     luas  : ${luas}
     keliling  : ${keliling}`)
-    console.log('================')
-    console.log('-bini hasil nya-')
-    console.log('================')
+    console.log('=================')
+    console.log('~bini hasil nya~~')
+    console.log('=================')

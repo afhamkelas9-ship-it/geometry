@@ -10,6 +10,6 @@ luas = 1/2 * diagonal_1 * diagonal_2
 keliling = 2 * (a + b)
 console.log(`luas  : ${luas}
     keliling  : ${keliling}`)
-    console.log('=================')
-    console.log('--ini hasil nya--')
-    console.log('=================')
+    console.log('================')
+    console.log('--ini hasil nya-')
+    console.log('================')

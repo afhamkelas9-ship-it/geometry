@@ -8,6 +8,6 @@ let tinggi = Number(prompt('tinggi : '))
 let volume = 1/3 * luas * tinggi
 
 console.log(`volume  : ${volume}`)
-console.log('=======================')
-console.log('-----ini hasil nya-----')
-console.log('=======================')
+console.log('======================')
+console.log('-----ini hasil nya----')
+console.log('======================')

@@ -11,6 +11,6 @@ luas = phi * a * b
 
 console.log (`luas :  ${luas}`)
 
-console.log ('================')
-console.log ('~~ini hasilnya~~')
-console.log ('================')
+console.log ('===============')
+console.log ('~~ini hasilnya~')
+console.log ('===============')
